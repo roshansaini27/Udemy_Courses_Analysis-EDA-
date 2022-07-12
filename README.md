@@ -1,4 +1,4 @@
-## Udemy_Courses_Analysis-EDA
+# Udemy_Courses_Analysis-EDA
 
 # Aim of project: 
 The aim of this EDA is to find out, for advice purposes, the most marketable course type for content creators. As a content creator, what kind of course should I put on Udemy for maximum profit?
